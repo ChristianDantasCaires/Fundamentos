@@ -1,0 +1,13 @@
+C:\Users\chris\OneDrive\Documentos\dev\dotnet\desenvolvedor-io\FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.deps.json
+C:\Users\chris\OneDrive\Documentos\dev\dotnet\desenvolvedor-io\FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.runtimeconfig.json
+C:\Users\chris\OneDrive\Documentos\dev\dotnet\desenvolvedor-io\FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.runtimeconfig.dev.json
+C:\Users\chris\OneDrive\Documentos\dev\dotnet\desenvolvedor-io\FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.dll
+C:\Users\chris\OneDrive\Documentos\dev\dotnet\desenvolvedor-io\FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.pdb
+C:\Users\chris\OneDrive\Documentos\dev\dotnet\desenvolvedor-io\FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documentos\dev\dotnet\desenvolvedor-io\FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documentos\dev\dotnet\desenvolvedor-io\FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documentos\dev\dotnet\desenvolvedor-io\FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documentos\dev\dotnet\desenvolvedor-io\FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documentos\dev\dotnet\desenvolvedor-io\FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.dll
+C:\Users\chris\OneDrive\Documentos\dev\dotnet\desenvolvedor-io\FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.pdb
+C:\Users\chris\OneDrive\Documentos\dev\dotnet\desenvolvedor-io\FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.genruntimeconfig.cache

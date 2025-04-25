@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chris\\OneDrive\\Documentos\\dev\\dotnet\\desenvolvedor-io\\FundamentosArquitetura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\chris\\onedrive\\documentos\\dev\\dotnet\\desenvolvedor-io\\fundamentosarquitetura\\solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\chris\\onedrive\\documentos\\dev\\dotnet\\desenvolvedor-io\\fundamentosarquitetura\\solid\\2 - ocp\\ocp.solucao extension methods\\caixaeletronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\2 - ocp\\ocp.solucao extension methods\\caixaeletronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\chris\\onedrive\\documentos\\dev\\dotnet\\desenvolvedor-io\\fundamentosarquitetura\\solid\\2 - ocp\\ocp.solucao\\debitoconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\2 - ocp\\ocp.solucao\\debitoconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\chris\\onedrive\\documentos\\dev\\dotnet\\desenvolvedor-io\\fundamentosarquitetura\\solid\\1 - srp\\srp.violacao\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\1 - srp\\srp.violacao\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\chris\\onedrive\\documentos\\dev\\dotnet\\desenvolvedor-io\\fundamentosarquitetura\\solid\\1 - srp\\srp.solucao\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\1 - srp\\srp.solucao\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\chris\\onedrive\\documentos\\dev\\dotnet\\desenvolvedor-io\\fundamentosarquitetura\\solid\\1 - srp\\srp.solucao\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\1 - srp\\srp.solucao\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\chris\\onedrive\\documentos\\dev\\dotnet\\desenvolvedor-io\\fundamentosarquitetura\\solid\\1 - srp\\srp.solucao\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\1 - srp\\srp.solucao\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documentos\\dev\\dotnet\\desenvolvedor-io\\FundamentosArquitetura\\SOLID\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID\\Program.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documentos\\dev\\dotnet\\desenvolvedor-io\\FundamentosArquitetura\\SOLID\\Program.cs",
+              "RelativeToolTip": "SOLID\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:35:34.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CaixaEletronico.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documentos\\dev\\dotnet\\desenvolvedor-io\\FundamentosArquitetura\\SOLID\\2 - OCP\\OCP.Solucao Extension Methods\\CaixaEletronico.cs",
+              "RelativeDocumentMoniker": "SOLID\\2 - OCP\\OCP.Solucao Extension Methods\\CaixaEletronico.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documentos\\dev\\dotnet\\desenvolvedor-io\\FundamentosArquitetura\\SOLID\\2 - OCP\\OCP.Solucao Extension Methods\\CaixaEletronico.cs",
+              "RelativeToolTip": "SOLID\\2 - OCP\\OCP.Solucao Extension Methods\\CaixaEletronico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:35:28.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DebitoConta.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documentos\\dev\\dotnet\\desenvolvedor-io\\FundamentosArquitetura\\SOLID\\2 - OCP\\OCP.Solucao\\DebitoConta.cs",
+              "RelativeDocumentMoniker": "SOLID\\2 - OCP\\OCP.Solucao\\DebitoConta.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documentos\\dev\\dotnet\\desenvolvedor-io\\FundamentosArquitetura\\SOLID\\2 - OCP\\OCP.Solucao\\DebitoConta.cs",
+              "RelativeToolTip": "SOLID\\2 - OCP\\OCP.Solucao\\DebitoConta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:35:24.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documentos\\dev\\dotnet\\desenvolvedor-io\\FundamentosArquitetura\\SOLID\\1 - SRP\\SRP.Violacao\\Cliente.cs",
+              "RelativeDocumentMoniker": "SOLID\\1 - SRP\\SRP.Violacao\\Cliente.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documentos\\dev\\dotnet\\desenvolvedor-io\\FundamentosArquitetura\\SOLID\\1 - SRP\\SRP.Violacao\\Cliente.cs",
+              "RelativeToolTip": "SOLID\\1 - SRP\\SRP.Violacao\\Cliente.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:35:17.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documentos\\dev\\dotnet\\desenvolvedor-io\\FundamentosArquitetura\\SOLID\\1 - SRP\\SRP.Solucao\\Email.cs",
+              "RelativeDocumentMoniker": "SOLID\\1 - SRP\\SRP.Solucao\\Email.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documentos\\dev\\dotnet\\desenvolvedor-io\\FundamentosArquitetura\\SOLID\\1 - SRP\\SRP.Solucao\\Email.cs",
+              "RelativeToolTip": "SOLID\\1 - SRP\\SRP.Solucao\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:35:14.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documentos\\dev\\dotnet\\desenvolvedor-io\\FundamentosArquitetura\\SOLID\\1 - SRP\\SRP.Solucao\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "SOLID\\1 - SRP\\SRP.Solucao\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documentos\\dev\\dotnet\\desenvolvedor-io\\FundamentosArquitetura\\SOLID\\1 - SRP\\SRP.Solucao\\ClienteRepository.cs",
+              "RelativeToolTip": "SOLID\\1 - SRP\\SRP.Solucao\\ClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:35:06.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documentos\\dev\\dotnet\\desenvolvedor-io\\FundamentosArquitetura\\SOLID\\1 - SRP\\SRP.Solucao\\Cliente.cs",
+              "RelativeDocumentMoniker": "SOLID\\1 - SRP\\SRP.Solucao\\Cliente.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documentos\\dev\\dotnet\\desenvolvedor-io\\FundamentosArquitetura\\SOLID\\1 - SRP\\SRP.Solucao\\Cliente.cs",
+              "RelativeToolTip": "SOLID\\1 - SRP\\SRP.Solucao\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:35:02.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
